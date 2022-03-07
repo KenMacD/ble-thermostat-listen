@@ -1,0 +1,7 @@
+{
+  "nrf-connect.applications": ["${workspaceFolder}"],
+  "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix",
+  "files.associations": {
+    "types.h": "c"
+  }
+}
